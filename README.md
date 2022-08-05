@@ -4,8 +4,6 @@
 
 Dans ce cours basé sur un projet pratique, je vous guiderai sur la façon d'utiliser la méthode d'expérimentation MLflow afin que différents praticiens de l'apprentissage automatique puissent partager des métriques et améliorer le même modèle. 
 
-Nous allons créer et exécuter plusieurs expériences Machine Learning afin de créer un modèle de prédiction du prix d'un bien immobilier en fonction de ses caractéristiques (nombre de chambres, de salles de bain, superficie, etc.).
-
 De manière spécifique, vous apprendrez à utiliser MLflow pour :
 
 * définir une expérience ;
@@ -13,5 +11,7 @@ De manière spécifique, vous apprendrez à utiliser MLflow pour :
 * ajouter des expériences ;
 
 * comparer différents modèles ;
+
+* Utiliser le script proposé automatiquement par MLflow pour effectuer des prédictions ;
 
 * régler votre modèle avec l'optimisation des hyperparamètres.
