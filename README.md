@@ -15,3 +15,7 @@ De manière spécifique, vous apprendrez à utiliser MLflow pour :
 * Utiliser le script proposé automatiquement par MLflow pour effectuer des prédictions ;
 
 * régler votre modèle avec l'optimisation des hyperparamètres.
+
+Regarder la vidéo du cours en cliquant sur ce lien : https://youtu.be/VuS2kaqMrf4
+
+Autre vidéo sur MLflow : [Automatisation des Pipelines de Machine Learning avec MLflow et Scikit-Learn](https://youtu.be/_txbaWf3Uzs)
